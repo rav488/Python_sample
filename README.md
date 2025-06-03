@@ -1,2 +1,1 @@
-# try_1
-game_hunger
+All My Project create for education and fun
